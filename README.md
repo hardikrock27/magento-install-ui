@@ -76,9 +76,12 @@ chmod +x install_magento_ui.sh
 # Run Installer
 
 ```bash
-./install_magento_ui.sh or sh install_magento_ui.sh
+./install_magento_ui.sh 
 ```
-
+or
+```bash
+sh install_magento_ui.sh
+```
 
 ---
 
